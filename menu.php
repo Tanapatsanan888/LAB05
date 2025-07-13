@@ -9,4 +9,7 @@
 
     echo "map";
     echo "Tel:0000000000";
+
+    echo "map";
+    echo "Tel:0000000000";
 ?>
